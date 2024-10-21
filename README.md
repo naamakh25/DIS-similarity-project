@@ -1,4 +1,6 @@
 Facial Movements and Dynamic Identity Signature Project
+
+
 This project analyzes facial movements to generate Dynamic Identity Signatures (DIS) using Normalizing Flow models. The objective is to explore patterns and similarities between individuals by analyzing their facial landmarks.
 
 Files in this Repository
